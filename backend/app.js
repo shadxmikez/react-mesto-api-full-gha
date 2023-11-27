@@ -12,8 +12,8 @@ const router = require('./routes/index');
 
 const app = express();
 const {
-  PORT,
-  DB
+  PORT = 3000,
+  DB = 'mongodb://localhost:27017/mestodb',
 } = process.env;
 
 mongoose.connect(DB, {
