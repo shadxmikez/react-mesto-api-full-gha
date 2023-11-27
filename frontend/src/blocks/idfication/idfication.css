@@ -1,0 +1,13 @@
+.idfication {
+	width: 358px;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+@media screen and (max-width: 647px) {
+	.idfication {
+		width: 260px;
+	}
+}

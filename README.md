@@ -5,12 +5,12 @@
   
 Пожалуйста, прикрепите в это описание ссылку на сайт, размещенный на Яндекс.Облаке.
 
-Адрес репозитория: https://github.com/...
+Адрес репозитория: https://github.com/shadxmikez/react-mesto-api-full-gha.git
 
 ## Ссылки на проект
 
-IP-адрес x.x.x.x
+51.250.6.102
 
-Frontend https://...
+Frontend https://shadxmikez.nomoredomainsmonster.ru
 
-Backend https://...
+Backend https://api.shadxmikez.nomoredomainsmonster.ru

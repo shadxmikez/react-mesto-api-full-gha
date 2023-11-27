@@ -1,0 +1,9 @@
+.popup__submit_disabled {
+	background-color: white;
+	border: 1px solid rgba(0, 0, 0, 0.5);
+	cursor: not-allowed;
+}
+
+.popup__submit_disabled:nth-child(n) {
+	color: rgba(0, 0, 0, 0.5);
+}

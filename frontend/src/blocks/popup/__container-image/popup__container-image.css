@@ -1,0 +1,12 @@
+.popup__container-image {
+	margin: 90px auto;
+	display: grid;
+	justify-content: center;
+	align-self: center;
+	position: relative;
+	background: none;
+	padding: 0;
+	object-fit: cover;
+	max-width: 75vw;
+	max-height: 75vh;
+}
