@@ -9,7 +9,7 @@
 
 ## Ссылки на проект
 
-51.250.6.102
+IP 51.250.6.102
 
 Frontend https://shadxmikez.nomoredomainsmonster.ru
 
